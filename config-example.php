@@ -1,8 +1,8 @@
 <?php
 
 /**
- * Config.php
- * Inhalte dieser Datei sollten nicht für andere Nutzer öffentlich Zugänglich sein
+ * config-example.php
+ * Inhalte dieser Datei dienen als Beispiel für den Aufbau der config.php und können öffentlich gemacht werden.
  */
 
 namespace Application;
@@ -11,6 +11,6 @@ namespace Application;
 define( 'APPLICATION_ROOT',     __DIR__ );
 
 // Datenbank Konfiguration
-define( 'DB_NAME',  'd56jh89a' );
-define( 'DB_USER',  'd56jh89a' );
-define( 'DB_PASS',  'khs89234!71623' );
+define( 'DB_NAME',  'your_database' );
+define( 'DB_USER',  'your_username' );
+define( 'DB_PASS',  'your_password' );
