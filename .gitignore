@@ -5,3 +5,6 @@
 # IntelliJ IDEA Files
 /.idea
 *.iml
+
+# Application
+config.php
