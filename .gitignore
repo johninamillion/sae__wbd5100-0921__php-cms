@@ -1,0 +1,7 @@
+# Die .gitignore enthält Dateien, welche nicht mit in das Git Repository gepusht werden sollen
+# Nutzerdaten (Nutzernamen, Passwörter)
+# Datenbankanbindung (Datenbankname, Datenbanknutzer, Datenbankpasswort)
+
+# IntelliJ IDEA Files
+/.idea
+*.iml
