@@ -36,4 +36,5 @@ include_once $config_file;
 // Session starten
 Session::start();
 
-
+// Anwendungsablauf starten
+( new Bootstrap() )->run();

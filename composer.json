@@ -9,8 +9,8 @@
         }
     ],
     "autoload": {
-        "PSR-4": {
-            "Application\\":    "src"
+        "psr-4": {
+            "Application\\":    "src/"
         }
     },
     "require": {
