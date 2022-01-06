@@ -38,3 +38,4 @@ Session::start();
 
 // Anwendungsablauf starten
 ( new Bootstrap() )->run();
+
