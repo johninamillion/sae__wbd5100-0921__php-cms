@@ -33,4 +33,7 @@ if ( file_exists( $config_file ) === FALSE ) {
 
 include_once $config_file;
 
+// Session starten
+Session::start();
+
 
