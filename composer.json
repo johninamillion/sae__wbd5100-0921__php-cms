@@ -1,0 +1,17 @@
+{
+    "name": "saeinstitute/wbd5100-0921-cms",
+    "description": "A custom content management system based on PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "johninamillion",
+            "email": "johninamio@gmail.com"
+        }
+    ],
+    "autoload": {
+        "PSR-4": {
+            "Application\\":    "src"
+        }
+    },
+    "require": {}
+}
