@@ -33,4 +33,5 @@ if ( file_exists( $config_file ) === FALSE ) {
 
 include_once $config_file;
 
-
+// Anwendungsablauf starten
+( new Bootstrap() )->run();
